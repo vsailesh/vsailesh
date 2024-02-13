@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**`Aspiring Tech Craftsman (Data Scientist/Researcher/Gamer)`**
+**`Aspiring Tech Craftsman (Data Scientist/Enterpreneur/AWS Certified Data Engineer)`**
 
 Greetings! I'm a Data science graduate at UMBC and specializing in artificial intelligence, equipped with a dynamic skill set earned through academic exploration and practical internships. My journey spans Full-Stack Web Development, Front and Back End skills, and a range of AI domains including Data Science, Machine Learning, Deep Learning, and Computer Vision. I've applied these skills to impactful projects across sectors like Agriculture, Healthcare, and Finance. I've even delved into research, utilizing deep learning and computer vision to provide enhancements in agricultural practices through reseach paper and dissecting the intricacies of Large Language Models in my master's journey. Proficient in languages such as C/C++, Java, Python, and frameworks like React Native, I invite you to explore my GitHub to witness my fervor for innovation in action.
 
