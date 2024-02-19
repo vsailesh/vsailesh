@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--!>
 
 **`Data Scientist/Enterpreneur**
 
@@ -42,6 +42,6 @@ Greetings! Data Scientist with nearly 4 years of expertise in leveraging advance
 
 ### 🏅 Achievements
 -   ⭐ **Top 1000 Successful project submission Reward** in Future Talent Ready Program by _Microsoft_ (January 2022)
--   📝 **Published research paper title "Detection of Plant Diseases using Convolutional Neural Networks"** in _IJRASET_ (August 2021)
+-   📝 **Published research paper title ""** in _IJRASET_ (August 2021)
 -   🥉 **3rd position in Project Expo** at _KL University Hyderabad - India_ (May 2021)
 -   🏆 **Secured 10th Position in GeoMap Quiz National Prelims** conducted by _GeoMap Society of India (GEMS)_ (December 2011)
