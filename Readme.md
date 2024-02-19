@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**`Aspiring Tech Craftsman (Data Scientist/Enterpreneur/AWS Data Engineer)`**
+**`Data Scientist/Enterpreneur**
 
-Greetings! I'm a Data science graduate at UMBC and specializing in artificial intelligence, equipped with a dynamic skill set earned through academic exploration and practical internships. My journey spans Full-Stack Web Development, Front and Back End skills, and a range of AI domains including Data Science, Machine Learning, Deep Learning, and Computer Vision. I've applied these skills to impactful projects across sectors like Agriculture, Healthcare, and Finance. I've even delved into research, utilizing deep learning and computer vision to provide enhancements in agricultural practices through reseach paper and dissecting the intricacies of Large Language Models in my master's journey. Proficient in languages such as C/C++, Java, Python, and frameworks like React Native, I invite you to explore my GitHub to witness my fervor for innovation in action.
+Greetings! Data Scientist with nearly 4 years of expertise in leveraging advanced analytics and machine learning for driving business insights and decision-making. Currently based in Maryland, USA, Sailesh has proficiency in cloud technologies such as AWS and Azure, and is adept at utilizing Python libraries, including scikit-learn, and machine learning frameworks such as Keras and TensorFlow. Skills extend to creating impactful data visualizations using tools like Tableau, Power BI, and Advanced Excel. Sailesh possesses a versatile skill set covering statistics, machine learning algorithms, data visualization, data warehousing, ETL processes, and data quality and governance. His database management skills include MySQL, PostgreSQL, and SQL Server. Strong foundation in data engineering, including feature engineering, time-series analysis, and optimized SQL queries for data transformation and integration. Has demonstrated expertise in the healthcare and financial sectors, contributing to the development of predictive models, risk stratification, and fraud detection solutions.
 
 ---
 
