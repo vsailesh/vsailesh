@@ -38,10 +38,3 @@ Greetings! Data Scientist with nearly 4 years of expertise in leveraging advance
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
-#
-
-### 🏅 Achievements
--   ⭐ **Top 1000 Successful project submission Reward** in Future Talent Ready Program by _Microsoft_ (January 2022)
--   📝 **Published research paper title ""** in _IJRASET_ (August 2021)
--   🥉 **3rd position in Project Expo** at _KL University Hyderabad - India_ (May 2021)
--   🏆 **Secured 10th Position in GeoMap Quiz National Prelims** conducted by _GeoMap Society of India (GEMS)_ (December 2011)
