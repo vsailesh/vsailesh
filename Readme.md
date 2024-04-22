@@ -33,7 +33,7 @@ Greetings! Data Scientist with nearly 4 years of expertise in leveraging advance
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-![image](https://github.com/vsailesh/vsailesh/assets/93115567/825eaefd-da92-4f01-8828-0cf5cd94038d)
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/rchavezj/rchavezj/raw/master/logos/postgresql.png" />
 
 <br />
 
