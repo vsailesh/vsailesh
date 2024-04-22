@@ -34,7 +34,7 @@ Greetings! Data Scientist with nearly 4 years of expertise in leveraging advance
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/rchavezj/rchavezj/raw/master/logos/docker.png" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/rchavezj/rchavezj/raw/master/logos/docker.png" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original-wordmark.svg" />
 
 <br />
 
